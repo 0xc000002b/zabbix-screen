@@ -1,0 +1,2 @@
+使用zabbix api，取得zabbix相关数据使用脚本实现创建一个包含所有机器的网卡流量图的screen
+
